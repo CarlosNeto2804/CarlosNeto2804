@@ -20,8 +20,9 @@
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png"> 
+    <br/>
   </div>
-  <br/>
+
   <div>
     <a href="https://github.com/CarlosNeto2804">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CarlosNeto2804&show_icons=true&include_all_commits=true&theme=vue-dark"

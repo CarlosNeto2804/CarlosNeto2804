@@ -1,7 +1,9 @@
 # Hi there 👋 I'm Carlos Neto 👨‍💻
 
 ## [![statsGit](https://github-readme-stats.vercel.app/api?username=CarlosNeto2804&show_icons=true&theme=dracula)](https://github.com/CarlosNeto2804)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNeto2804)](https://github.com/CarlosNeto2804/github-readme-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNeto2804&layout=compact)](https://github.com/CarlosNeto2804/github-readme-stats)
+---
 [![git](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github)](https://github.com/CarlosNeto2804)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/carlos-alberto-neto-3b3797196/)
 [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:carloshtcursos@gmail.com)

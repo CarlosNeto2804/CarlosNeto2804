@@ -3,6 +3,7 @@
 ## [![statsGit](https://github-readme-stats.vercel.app/api?username=CarlosNeto2804&show_icons=true&theme=dracula)](https://github.com/CarlosNeto2804)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNeto2804&layout=compact)](https://github.com/CarlosNeto2804/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosNeto2804)](https://github.com/CarlosNeto2804/github-readme-stats)
 ---
 [![git](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github)](https://github.com/CarlosNeto2804)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/carlos-alberto-neto-3b3797196/)

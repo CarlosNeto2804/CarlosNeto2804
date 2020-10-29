@@ -22,7 +22,7 @@
   </div>
   <div>
      <a href="https://github.com/CarlosNeto2804">
-       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosNeto2804&layout=compact&langs_count=20&theme=vue-dark />
+       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosNeto2804&layout=compact&langs_count=20&theme=vue-dark"/>
      </a>
   </div>
 </code>

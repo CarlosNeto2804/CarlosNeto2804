@@ -2,7 +2,7 @@
 
 ## [![statsGit](https://github-readme-stats.vercel.app/api?username=CarlosNeto2804&show_icons=true&theme=dracula)](https://github.com/CarlosNeto2804)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNeto2804&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNeto2804&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CarlosNeto2804)](https://github.com/anuraghazra/github-readme-stat)
 ---
 [![git](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github)](https://github.com/CarlosNeto2804)

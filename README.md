@@ -19,7 +19,7 @@
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CarlosNeto2804&show_icons=true&include_all_commits=true&theme=vue-dark"
     </a>
     <a href="https://github.com/CarlosNeto2804">
-       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosNeto2804&layout=compact&langs_count=20&theme=vue-dark"/>
+       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosNeto2804&layout=compact&langs_count=8&theme=vue-dark"/>
      </a>
   </div>
   <div>

@@ -18,19 +18,14 @@
     <a href="https://github.com/CarlosNeto2804">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CarlosNeto2804&show_icons=true&include_all_commits=true&theme=vue-dark"
     </a>
-
-  </div>
-  <div>
-     <a href="https://github.com/CarlosNeto2804">
+    <a href="https://github.com/CarlosNeto2804">
        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosNeto2804&layout=compact&langs_count=20&theme=vue-dark"/>
      </a>
   </div>
+  <div>
+     
+  </div>
 </code>
-
-<code>
-  
-</code>
-
 
 
 [![git](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github)](https://github.com/CarlosNeto2804)

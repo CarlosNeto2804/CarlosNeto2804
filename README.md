@@ -8,4 +8,4 @@
 [![insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carloajpn/)
 [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlosn16055806)
 [![whats](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55+67+984727779)
-<!--[![GitHub watchers](https://img.shields.io/github/watchers/CarlosNeto2804/CarlosNeto2804?color=gree&label=Visits)](https://github.com/CarlosNeto2804)-->
+[![GitHub watchers](https://img.shields.io/github/watchers/CarlosNeto2804/CarlosNeto2804?color=gree&label=Visits)](https://github.com/CarlosNeto2804)

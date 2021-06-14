@@ -11,7 +11,7 @@ I like automating things, building pipelines, exploring scalability problems and
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🧐 Interested in backend. Recent focus on DevSecOps.
+- 🧐 Focused on backend. Recently Interested in DevSecOps.
 - 🌱 I’m currently learning gRPC, Distributed Computing and GoLang
 - 🎓 Studying Bachelor in Information Systems
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/carlosajpn/) 

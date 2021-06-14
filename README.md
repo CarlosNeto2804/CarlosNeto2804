@@ -1,21 +1,69 @@
-![](https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/tecnologias.png)
-# Hi there 👋 I'm Carlos Neto 👨‍💻
-<code>
-  <div>
-    <a href="https://github.com/CarlosNeto2804">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CarlosNeto2804&show_icons=true&include_all_commits=true&theme=vue-dark"
-    </a>
-    <a href="https://github.com/CarlosNeto2804">
-       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosNeto2804&layout=compact&langs_count=8&theme=vue-dark"/>
-     </a>
-  </div>
-  <div>
-     
-  </div>
-</code>
+![](https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/tecnologias.png)
+
+<h1 align="center"> Hi there 👋 I'm Carlos Neto <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+  
+I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/carlos-alberto-neto-3b3797196/)
-[![insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosajpn/)
----
+![age](https://img.shields.io/badge/age-21-blue)
+![focus](https://img.shields.io/badge/focus-BackEnd-brightgreen)
+![living](https://img.shields.io/badge/living-CampoGrande-3c9)
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🧐 Interested in backend. Recent focus on DevSecOps.
+- 🌱 I’m currently learning gRPC, Distributed Computing and GoLang
+- 🎓 Studying Bachelor in Information Systems
+- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/carlosajpn/) 
+<br />
+
+
+## 👨‍💻 Languages and Tools
+
+<div align="center">
+  
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/c++.png?raw=true" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/JS.png?raw=true" height="60" width="60">
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/clojure.png?raw=true" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png?raw=true" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/typescript.png?raw=true" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/Orange_lambda.svg.png?raw=true" height="60" width="60">
+<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+
+<br>
+
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/haskell-hex-turquoise.png?raw=true" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/pwa2.png?raw=true" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/sql.png?raw=true" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/postgres.png?raw=true" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/mocha-1-1175012.png?raw=true" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/google-cloud-platform-logo-1548cb88200dbc04ca79a2447a0db447.png?raw=true" height="60" width="60">
+<img src="https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/images/angular.png?raw=true" height="60" width="60">
+
+
+</div>
+
+<br >
+
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=CarlosNeto2804&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosNeto2804&theme=dark" width="45%" >
+
+<br>
+
+<div align="center">
+
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/carlos-alberto-neto-3b3797196/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/carlosajpn)
+
+</div>

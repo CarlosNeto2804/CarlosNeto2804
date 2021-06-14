@@ -1,4 +1,4 @@
-![](https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/aaaa.svg)
+![](https://github.com/CarlosNeto2804/CarlosNeto2804/blob/main/tecnologias.jpg)
 # Hi there 👋 I'm Carlos Neto 👨‍💻
 <code>
  <div style="margin-bottom:20px">

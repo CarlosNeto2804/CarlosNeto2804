@@ -14,7 +14,7 @@ I like automating things, building pipelines, exploring scalability problems and
 - 🧐 Focused on backend. Recently Interested in DevSecOps.
 - 🌱 I’m currently learning gRPC, Distributed Computing and GoLang
 - 🎓 Studying Bachelor in Information Systems
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/carlosajpn/) 
+- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/carlos-alberto-neto-3b3797196/) 
 <br />
 
 

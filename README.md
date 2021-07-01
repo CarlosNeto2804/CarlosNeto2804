@@ -51,7 +51,7 @@ I like automating things, building pipelines, exploring scalability problems and
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=CarlosNeto2804&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=CarlosNeto2804&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosNeto2804&theme=dark" width="45%" >
 

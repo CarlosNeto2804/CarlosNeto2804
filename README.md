@@ -59,12 +59,15 @@ I like automating things, building pipelines, exploring scalability problems and
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CarlosNeto2804&bg_color=151515&color=F8D866&line=79ff97&point=FFFFFF&hide_border=true" />
 </a>
+<div align="center" style="text-align: center">
+<img  src="https://github-profile-trophy.vercel.app/?username=CarlosNeto2804&margin-w=5&theme=gruvbox&column=7&no-frame=true" align="center" width="100%">
+</div>
+
 
 <br>
 
 <div align="center">
-
-
+ 
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 

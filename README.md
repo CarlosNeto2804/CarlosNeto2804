@@ -5,7 +5,7 @@
 I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong advocate of the Functional Programming Paradigm, Category theory, :cloud: Cloud computing, 🚀 DevSecOps 
 
 
-![age](https://img.shields.io/badge/age-21-blue)
+![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-BackEnd-brightgreen)
 ![living](https://img.shields.io/badge/living-CampoGrande-3c9)
 

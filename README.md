@@ -2,7 +2,14 @@
 
 <h1 align="center"> Hi I'm Carlos Neto <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
   
-I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong advocate of the Functional Programming Paradigm, Category theory, :cloud: Cloud computing, 🚀 DevSecOps 
+
+Senior DevOps & Platform Engineer with a strong track record building and operating high-throughput, mission-critical systems in fintech and cloud-native environments.
+
+Expert in Python and Node for backend services, automation, and high-performance data processing — designing APIs, async workflows, and event-driven systems. Deep hands-on experience with distributed systems and multi-cloud architectures (AWS, OCI, GCP), reliability engineering, incident response, and platform scalability.
+
+Led large-scale infrastructure evolution in post-merger scenarios, driving standardization, FinOps cost optimization, and resilience across complex environments. Strong in DevSecOps practices, PostgreSQL/MongoDB performance tuning, and architecting resilient systems handling billions of transactions.
+
+Focused on bridging infrastructure, backend engineering, and business needs — delivering scalable platforms, accelerating engineering velocity, and ensuring high availability in production.
 
 
 ![focus](https://img.shields.io/badge/focus-BackEnd-brightgreen)

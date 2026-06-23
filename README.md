@@ -15,12 +15,7 @@ Focused on bridging infrastructure, backend engineering, and business needs — 
 ![focus](https://img.shields.io/badge/focus-BackEnd-brightgreen)
 ![living](https://img.shields.io/badge/living-CampoGrande-3c9)
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🧐 Focused on backend. Recently Interested in DevSecOps.
-- 🌱 I’m currently learning gRPC, Distributed Computing and GoLang
-- 🎓 Studying Bachelor in Information Systems
-- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/carlos-alberto-neto-3b3797196/) 
+<!-- <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 <br />
 
 

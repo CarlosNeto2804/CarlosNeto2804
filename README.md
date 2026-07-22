@@ -52,6 +52,5 @@ Focused on bridging infrastructure, backend engineering, and business needs — 
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/carlos-alberto-neto-3b3797196/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/carlosajpn)
 
 </div>
